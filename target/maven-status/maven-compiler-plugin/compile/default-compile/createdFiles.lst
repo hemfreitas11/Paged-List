@@ -1,0 +1,9 @@
+me\bkrmt\bkcore\ItemStorage.class
+me\bkrmt\bkcore\properties\DisplayLoreBuilder.class
+me\bkrmt\bkcore\PagedItem.class
+me\bkrmt\bkcore\AbstractItem.class
+me\bkrmt\bkcore\PagedList.class
+me\bkrmt\bkcore\properties\DisplayNameBuilder.class
+me\bkrmt\bkcore\Properties.class
+me\bkrmt\bkcore\HeadDisplay.class
+me\bkrmt\bkcore\properties\DisplayItemBuilder.class
